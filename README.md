@@ -11,7 +11,7 @@
 
 ### 基本信息
 - 个人信息    : 高飞翔 / 男 / 1990
-- 院校/专业   : 郑州轻工业学院 / 网络工程
+- 院校/专业   : 郑州轻工业学院 / 网络工程 / 本科
 - 工作年限    : 3年
 - 现居        : 上海
 - 求职意向    : iOS开发工程师
@@ -23,7 +23,7 @@
 - 常用调试工具 : Instruments / Postman
 - 开发语言 : 
     - Object-C : -- ![Progress](http://progressed.io/bar/90)
-    - Swift : ----- ![Progress](http://progressed.io/bar/80)
+    - Swift : ------ ![Progress](http://progressed.io/bar/80)
     - 了解 : JavaScript / Nodejs / Vuejs
 - 学习与交流 : Github / stack overflow / 简书 / 码云 / 大学公开课(视频)
 
@@ -32,9 +32,13 @@
 ### 技能清单
 - 擅长使用Objective-C、Swift语言，了解JavaScript，Nodejs
 - 熟悉Objective-C内存管理机制及Runtime、Runloop
-- 熟悉iOS常用核心库
+- 熟悉iOS SDK，以及各种常用第三方库
+- 熟悉纯代码、Storyboard、xib等多种开发方式
+- 熟悉MVC、MVVM等架构模式
 - 熟悉GCD/NSOperation及网络并发编程技术
 - 熟练使用CocoaPods，Git版本控制工具
+- 熟悉Instruments调试工具
+- 熟悉AppStore上架应用，及企业应用分发部署
 
 ---
 
