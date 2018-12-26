@@ -19,13 +19,12 @@
 ---
 
 ### 开发能力
-- 常用开发工具 : Xcode / Atom / Visual Studio Code
+- 常用开发工具 : Xcode / Visual Studio Code
 - 常用调试工具 : Instruments / Postman
 - 开发语言 : 
     - Object-C : -- ![Progress](http://progressed.io/bar/90)
     - Swift : ------ ![Progress](http://progressed.io/bar/80)
-    - 了解 : JavaScript / Nodejs / Vuejs
-- 学习与交流 : Github / stack overflow / 简书 / 码云 / 大学公开课(视频)
+    - 了解 : JavaScript / Nodejs
 
 ---
 
@@ -47,14 +46,10 @@
 #### 丰客(上海)网络科技有限公司 (2017.8 - 至今)
 - 职位 : iOS研发
 - 语言 : Swift，Object-C，Nodejs
-- 职责 : 快速验证某项技术的可行性，负责核心模块的编写，与硬件团队、后台协作，制定接口规范
+- 职责 : 负责iOS项目的技术预演，核心模块的编写，与硬件团队、后台协作，制定接口规范
 - 业绩 : 
-    - Swift Playgrounds 应用调研，验证项目在该平台的可行性
-    - iOS设备、Android设备、Node小型服务器之间数据通信与优化（蓝牙，Socket.io）
-    - 基于Blockly的STEAM模块化编程APP的研发
-    - 漂移车(用手机替代手柄控制漂移车)SRC的测试与研发
-    - SceneKit的学习与测试
-    - 管理员后台系统的研发(参与)
+    - 重构Arena系统，加入Nodejs主机，优化iOS设备、Android设备、Node主机之间数据的通信与优化
+    - 独立开发基于Blockly的STEAM模块化编程APP
 
 
 #### 上海维聚网络科技有限公司 (2015.7 - 2017.7)
@@ -73,8 +68,6 @@
 
 #### 1. 银河战甲(Galaxy ZEGA) 一款可以对战的智能坦克 (Object-C)
 - [AppStore下载](https://itunes.apple.com/us/app/id914266967?mt=8)
-- 累计用户量: 16W+ (数据来源于友盟统计)
-- 月活峰值 : 18000+
 
 基于MVC设计，主要功能模块包含第三方登录(微信、QQ、Facebook、Twitter)、蓝牙、推送、应用内购买、排名系统、技能系统、武器系统、组队模块、对战系统等。用户打开蓝牙和坦克底部开关，靠近后直接连接。
 
